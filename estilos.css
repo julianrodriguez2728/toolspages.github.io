@@ -15,7 +15,7 @@ body{
 @media  screen and (min-width: 1023px){
 /* HEADER */
 header{
-    height: 17vh;
+    height: 30vh;
     background-color: black;
 }
 .nav{
